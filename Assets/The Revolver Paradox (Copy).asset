@@ -1,0 +1,1172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 935899b62f48ae5498594680ed17d133, type: 3}
+  m_Name: The Revolver Paradox (Copy)
+  m_EditorClassIdentifier: 
+  version: 02/06/2024 16:04:40
+  author: articy:draft 4.0.5
+  description: 
+  globalUserScript: 
+  emphasisSettings:
+  - color: {r: 1, g: 1, b: 1, a: 1}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 1, g: 1, b: 1, a: 1}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 1, g: 1, b: 1, a: 1}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 1, g: 1, b: 1, a: 1}
+    bold: 0
+    italic: 0
+    underline: 0
+  baseID: 1
+  actors:
+  - id: 1
+    fields:
+    - title: Name
+      value: YOU
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000139
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_7D51EA17
+      type: 0
+      typeString: 
+    - title: Motivation
+      value: 
+      type: 0
+      typeString: 
+    - title: InnerConflict
+      value: 
+      type: 0
+      typeString: 
+    - title: Skills
+      value: 
+      type: 0
+      typeString: 
+    - title: Fears
+      value: 
+      type: 0
+      typeString: 
+    - title: Habits
+      value: 
+      type: 0
+      typeString: 
+    - title: FurtherDetails
+      value: 
+      type: 0
+      typeString: 
+    - title: Age
+      value: 
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Species
+      value: Human
+      type: 0
+      typeString: 
+    - title: BornIn
+      value: 
+      type: 0
+      typeString: 
+    - title: Sex
+      value: 2
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Occupation
+      value: Cleaner
+      type: 0
+      typeString: 
+    - title: Accent
+      value: 
+      type: 0
+      typeString: 
+    - title: Personality
+      value: 
+      type: 0
+      typeString: 
+    - title: Appearance
+      value: 
+      type: 0
+      typeString: 
+    - title: PlayerId
+      value: True
+      type: 2
+      typeString: CustomFieldType_Boolean
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 2
+    fields:
+    - title: Name
+      value: THE OMNISCIENT VOICE OF FACT
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/The Narrator.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x010000000000013D
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_BE7400FF
+      type: 0
+      typeString: 
+    - title: Age
+      value: 
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Species
+      value: V oice
+      type: 0
+      typeString: 
+    - title: BornIn
+      value: 
+      type: 0
+      typeString: 
+    - title: Sex
+      value: 2
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Occupation
+      value: 
+      type: 0
+      typeString: 
+    - title: Accent
+      value: 
+      type: 0
+      typeString: 
+    - title: Personality
+      value: 
+      type: 0
+      typeString: 
+    - title: Appearance
+      value: 
+      type: 0
+      typeString: 
+    - title: PlayerId
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 3
+    fields:
+    - title: Name
+      value: THE 9 TO 5
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/The 9 to 5.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000141
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_53B8DBF5
+      type: 0
+      typeString: 
+    - title: Age
+      value: 23
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Species
+      value: Human
+      type: 0
+      typeString: 
+    - title: BornIn
+      value: 
+      type: 0
+      typeString: 
+    - title: Sex
+      value: 0
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Occupation
+      value: Retail Worker
+      type: 0
+      typeString: 
+    - title: Accent
+      value: 
+      type: 0
+      typeString: 
+    - title: Personality
+      value: 
+      type: 0
+      typeString: 
+    - title: Appearance
+      value: 
+      type: 0
+      typeString: 
+    - title: PlayerId
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 4
+    fields:
+    - title: Name
+      value: THE ETERNALLY BLACK SKY
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/The_Eternally_Black_Sky(097C).png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000145
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_66031B5A
+      type: 0
+      typeString: 
+    - title: Age
+      value: 45
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Species
+      value: 
+      type: 0
+      typeString: 
+    - title: BornIn
+      value: 
+      type: 0
+      typeString: 
+    - title: Sex
+      value: 2
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Occupation
+      value: 
+      type: 0
+      typeString: 
+    - title: Accent
+      value: 
+      type: 0
+      typeString: 
+    - title: Personality
+      value: 
+      type: 0
+      typeString: 
+    - title: Appearance
+      value: 
+      type: 0
+      typeString: 
+    - title: PlayerId
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 5
+    fields:
+    - title: Name
+      value: THE UNENDING WORLD
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Downloads/The World.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000233
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_7F4D40B5
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 6
+    fields:
+    - title: Name
+      value: THE OFFICE
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/The Office.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x01000000000002D3
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_B1A20FA6
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 7
+    fields:
+    - title: Name
+      value: THE CLEANER
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/Violent Ways.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000769
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_30C226AA
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 8
+    fields:
+    - title: Name
+      value: THE CONMAN
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[file:///C:/Users/lucca/Desktop/A Charmer.png]'
+      type: 0
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x010000000000076D
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_00822518
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 9
+    fields:
+    - title: Name
+      value: A CHILD IN HELL
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000C1E
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_7A68BC51
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  - id: 10
+    fields:
+    - title: Name
+      value: A CHILD THAT FELL
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: CustomFieldType_Files
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: IsPlayer
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Articy Id
+      value: 0x0100000000000C22
+      type: 0
+      typeString: 
+    - title: Technical Name
+      value: Ntt_BE2CA299
+      type: 0
+      typeString: 
+    portrait: {fileID: 0}
+    spritePortrait: {fileID: 0}
+    alternatePortraits: []
+    spritePortraits: []
+  items: []
+  locations: []
+  variables:
+  - id: 1
+    fields:
+    - title: Name
+      value: Death_Flags.First_Death
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 2
+    fields:
+    - title: Name
+      value: Death_Flags.HasdiedX
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 0
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 3
+    fields:
+    - title: Name
+      value: Death_Flags.HaskilledthemselvesAgain
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 4
+    fields:
+    - title: Name
+      value: Character_Info.Strenght
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 1
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 5
+    fields:
+    - title: Name
+      value: Character_Info.Dexterity
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 1
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 6
+    fields:
+    - title: Name
+      value: Character_Info.Constitution
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 1
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 7
+    fields:
+    - title: Name
+      value: Character_Info.Wisdom
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 1
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 8
+    fields:
+    - title: Name
+      value: Character_Info.Charisma
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 1
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 9
+    fields:
+    - title: Name
+      value: Character_Info.Mercenary_Background
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: True
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 10
+    fields:
+    - title: Name
+      value: Character_Info.Conman_Background
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 11
+    fields:
+    - title: Name
+      value: Character_Info.Druggie
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 0
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 12
+    fields:
+    - title: Name
+      value: Character_Info.WantedtoEndIt
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 13
+    fields:
+    - title: Name
+      value: Rolls.Head
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 14
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.NeedPCforJob
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 15
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.TriedtoPry
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 16
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.RefusedJob
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 17
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.DidntAnswerthePhone
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 18
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.KilledBySniper
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 0
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 19
+    fields:
+    - title: Name
+      value: TheOFFICEVariables.Check
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: 0
+      type: 1
+      typeString: CustomFieldType_Number
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 20
+    fields:
+    - title: Name
+      value: WasKilledBy.Sniper
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 21
+    fields:
+    - title: Name
+      value: WasKilledBy.Self
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 22
+    fields:
+    - title: Name
+      value: WasKilledBy.Car
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 23
+    fields:
+    - title: Name
+      value: WasKilledBy.Shopkeeper
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 24
+    fields:
+    - title: Name
+      value: WasKilledBy.ProtectingChild
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  - id: 25
+    fields:
+    - title: Name
+      value: Spawnchecks.ChangedSpawnPoints
+      type: 0
+      typeString: 
+    - title: Initial Value
+      value: False
+      type: 2
+      typeString: CustomFieldType_Boolean
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+  conversations:
+  - id: 1
+    fields:
+    - title: Title
+      value: The Revolver Paradox/Untitled dialogue
+      type: 0
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Articy Id
+      value: 0x0100000000000213
+      type: 0
+      typeString: 
+    overrideSettings:
+      useOverrides: 0
+      overrideSubtitleSettings: 0
+      showNPCSubtitlesDuringLine: 1
+      showNPCSubtitlesWithResponses: 1
+      showPCSubtitlesDuringLine: 0
+      skipPCSubtitleAfterResponseMenu: 0
+      subtitleCharsPerSecond: 30
+      minSubtitleSeconds: 2
+      continueButton: 0
+      overrideSequenceSettings: 0
+      defaultSequence: 
+      defaultPlayerSequence: 
+      defaultResponseMenuSequence: 
+      overrideInputSettings: 0
+      alwaysForceResponseMenu: 1
+      includeInvalidEntries: 0
+      responseTimeout: 0
+      emTagForOldResponses: 0
+      emTagForInvalidResponses: 0
+      cancelSubtitle:
+        key: 27
+        buttonName: 
+      cancelConversation:
+        key: 27
+        buttonName: 
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: Continue()
+        type: 0
+        typeString: 
+      - title: Articy Id
+        value: 0x0100000000000213
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 0
+        destinationConversationID: 1
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: input
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      - title: Articy Id
+        value: 0x0100000000000222
+        type: 0
+        typeString: 
+      - title: InputId
+        value: 0x0100000000000222
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 1
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 1
+        destinationConversationID: 1
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: '...: "Strenght check"'
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: Strenght check
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Strenght check
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      - title: Articy Id
+        value: 0x0100000000000214
+        type: 0
+        typeString: 
+      - title: InputId
+        value: 0x0100000000000215
+        type: 0
+        typeString: 
+      - title: OutputId
+        value: 0x0100000000000216
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 3
+        destinationConversationID: 1
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New dialogue fragment
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      - title: Articy Id
+        value: 0x010000000000021B
+        type: 0
+        typeString: 
+      - title: InputId
+        value: 0x010000000000021C
+        type: 0
+        typeString: 
+      - title: OutputId
+        value: 0x010000000000021D
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    entryGroups: []
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
+  syncInfo:
+    syncActors: 0
+    syncItems: 0
+    syncLocations: 0
+    syncVariables: 0
+    syncActorsDatabase: {fileID: 0}
+    syncItemsDatabase: {fileID: 0}
+    syncLocationsDatabase: {fileID: 0}
+    syncVariablesDatabase: {fileID: 0}
+  templateJson: 
